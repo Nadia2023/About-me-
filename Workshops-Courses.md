@@ -1,5 +1,9 @@
 ## Workshops-Courses
 
+* Tools of the Trade: Linux and SQL Google- July2023
+* Connect and Protect: Networks and Network Security  Google- Jun 2023
+* Play It Safe: Manage Security Risks- May-2023
+* Foundations of Cybersecurity -Google -May2023
 * Introduction to Data Science- Cisco-May 2023
 certificate link:
 https://www.credly.com/badges/81813c11-746b-44c1-9a33-89d1120e5b98
